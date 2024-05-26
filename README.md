@@ -1,1 +1,1 @@
-# treasure-maze-game
+# Escape from the Tower of Treasure
